@@ -1,0 +1,12 @@
+.contenedor-banner {
+    max-width:auto;
+    height: auto;
+  }
+  
+  @media (max-width: 768px) {
+    .contenedor-banner img {
+      width: 100%;
+      height: auto;
+    }
+  }
+  
